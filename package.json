@@ -1,9 +1,9 @@
 {
   "name": "ngx-notifications",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "peerDependencies": {
-    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
-    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+    "@angular/common": "^7.0.0-rc.0 || ^7.0.0",
+    "@angular/core": "^7.0.0-rc.0 || ^7.0.0"
   },
   "main": "bundles/ngx-notifications.umd.js",
   "module": "fesm5/ngx-notifications.js",

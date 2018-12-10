@@ -16,7 +16,7 @@ export declare class NgxNotificationsService {
      * @param data
      */
     publish(data: {
-        act: string;
+        act: any;
         data?: any;
     }): void;
 }
