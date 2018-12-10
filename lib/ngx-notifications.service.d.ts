@@ -1,4 +1,4 @@
-import { Subject, Observable } from '../../../../node_modules/rxjs';
+import { Observable, Subject } from 'rxjs';
 export declare class NgxNotificationsService {
     topic: Subject<any>;
     observer: Observable<any>;
